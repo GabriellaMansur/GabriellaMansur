@@ -1,6 +1,6 @@
 ### Olá! Eu sou  Gabriella M. Mansur Mesquita 👋👾
 
-Estudante de Análise e Desenvolvimento de Sistemas imersa em estudos em data science, constantemente estudando e aprendendo
+Estudante de Análise e Desenvolvimento de Sistemas imersa nos estudos e constantemente aprendendo
 
 <p align="center">
   <a target="_blank" href="www.linkedin.com/in/gabriella-m-mansur-mesquita">
